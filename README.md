@@ -17,6 +17,8 @@
 
 GRAformer outshines the best results achieved by Transformer-based models, delivering an impressive overall 1.0% reduction in Mean Squared Error (MSE) and a 1% decrease in Mean Absolute Error (MAE). Remarkably, it also boasts twice the training speed compared to the fastest model PatchTST. Furthermore, GRAformer surpasses the performance of non-Transformer-based models like DLinear, MTGNN, AGLGNN, and DeepAR, solidifying its position as a standout in the field.
 
+[//]: # (![alt text]&#40;https://github.com/yuqinie98/PatchTST/blob/main/pic/table3.png&#41;)
+
 
 
 
