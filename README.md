@@ -4,7 +4,9 @@
 
 
 ## Key Designs
+
 :star1: **Gated Residual Attention**: segmentation of time series into subseries-level patches which are served as input tokens to Transformer.
+
 :star2: **Channel Adaptation Infusion**: A training approach where a subset of the model parameters are trained in a channel-dependent manner (e.g., based on specific tokens or relevance information), while the remaining parameters are trained independently in a channel-agnostic way.
 
 
